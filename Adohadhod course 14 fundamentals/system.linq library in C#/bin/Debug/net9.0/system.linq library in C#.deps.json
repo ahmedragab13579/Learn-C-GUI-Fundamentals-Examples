@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "system.linq library in C#/1.0.0": {
+        "runtime": {
+          "system.linq library in C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "system.linq library in C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

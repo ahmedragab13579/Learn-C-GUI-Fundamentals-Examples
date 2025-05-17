@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\bin\Debug\net9.0\C# Math.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\bin\Debug\net9.0\C# Math.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\bin\Debug\net9.0\C# Math.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\bin\Debug\net9.0\C# Math.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\bin\Debug\net9.0\C# Math.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\C# Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\C# Math.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\C# Math.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\C# Math.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\C# Math.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\refint\C# Math.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\C# Math.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\C# Math.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\C# Math\obj\Debug\net9.0\ref\C# Math.dll

@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\bin\Debug\net9.0\Ticks in C#.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\bin\Debug\net9.0\Ticks in C#.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\bin\Debug\net9.0\Ticks in C#.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\bin\Debug\net9.0\Ticks in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\bin\Debug\net9.0\Ticks in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\Ticks in C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\Ticks in C#.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\Ticks in C#.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\Ticks in C#.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\Ticks in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\refint\Ticks in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\Ticks in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\Ticks in C#.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Ticks in C#\obj\Debug\net9.0\ref\Ticks in C#.dll

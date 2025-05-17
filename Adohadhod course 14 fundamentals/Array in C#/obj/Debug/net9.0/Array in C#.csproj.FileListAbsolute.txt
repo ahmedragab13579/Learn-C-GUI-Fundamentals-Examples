@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\bin\Debug\net9.0\Array in C#.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\bin\Debug\net9.0\Array in C#.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\bin\Debug\net9.0\Array in C#.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\bin\Debug\net9.0\Array in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\bin\Debug\net9.0\Array in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\Array in C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\Array in C#.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\Array in C#.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\Array in C#.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\Array in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\refint\Array in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\Array in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\Array in C#.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Array in C#\obj\Debug\net9.0\ref\Array in C#.dll

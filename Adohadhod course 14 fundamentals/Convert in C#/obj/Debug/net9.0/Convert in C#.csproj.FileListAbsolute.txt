@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\bin\Debug\net9.0\Convert in C#.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\bin\Debug\net9.0\Convert in C#.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\bin\Debug\net9.0\Convert in C#.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\bin\Debug\net9.0\Convert in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\bin\Debug\net9.0\Convert in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\Convert in C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\Convert in C#.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\Convert in C#.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\Convert in C#.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\Convert in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\refint\Convert in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\Convert in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\Convert in C#.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Convert in C#\obj\Debug\net9.0\ref\Convert in C#.dll

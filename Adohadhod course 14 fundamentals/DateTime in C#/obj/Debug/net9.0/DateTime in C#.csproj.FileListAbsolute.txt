@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\bin\Debug\net9.0\DateTime in C#.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\bin\Debug\net9.0\DateTime in C#.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\bin\Debug\net9.0\DateTime in C#.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\bin\Debug\net9.0\DateTime in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\bin\Debug\net9.0\DateTime in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\DateTime in C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\DateTime in C#.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\DateTime in C#.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\DateTime in C#.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\DateTime in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\refint\DateTime in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\DateTime in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\DateTime in C#.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\DateTime in C#\obj\Debug\net9.0\ref\DateTime in C#.dll

@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\bin\Debug\net9.0\Strings In C#.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\bin\Debug\net9.0\Strings In C#.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\bin\Debug\net9.0\Strings In C#.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\bin\Debug\net9.0\Strings In C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\bin\Debug\net9.0\Strings In C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\Strings In C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\Strings In C#.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\Strings In C#.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\Strings In C#.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\Strings In C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\refint\Strings In C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\Strings In C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\Strings In C#.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Strings In C#\obj\Debug\net9.0\ref\Strings In C#.dll

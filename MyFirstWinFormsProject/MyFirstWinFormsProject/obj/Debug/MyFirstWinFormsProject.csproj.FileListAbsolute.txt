@@ -1,0 +1,53 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Properties.Resources.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Form1.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMain.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMessageBox.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmChkRadioGroup.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmTextBox.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmPictureBox.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMaskedTextBox.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmComboBox.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmLinkLable.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmCheckedListBox.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmDateTimePicker.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMonthCalandar.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmTimer.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe.config
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.pdb
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.AssemblyReference.cache
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Form1.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmCheckedListBox.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmChkRadioGroup.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmComboBox.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmDateTimePicker.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmLinkLable.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMain.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMaskedTextBox.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMessageBox.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMonthCalandar.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmPictureBox.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmTextBox.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmTimer.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Properties.Resources.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.GenerateResource.cache
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.exe
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.pdb
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Notifylcon.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Image_List.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Form2.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.listview.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.ErorrProvider.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Trackbar.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.tabcontrol.resources
+D:\course 14 abohadhod C#\MyFirstWinFormsProject\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Dialogs.resources

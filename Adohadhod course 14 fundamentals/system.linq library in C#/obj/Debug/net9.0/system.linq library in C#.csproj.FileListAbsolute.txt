@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\bin\Debug\net9.0\system.linq library in C#.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\bin\Debug\net9.0\system.linq library in C#.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\bin\Debug\net9.0\system.linq library in C#.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\bin\Debug\net9.0\system.linq library in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\bin\Debug\net9.0\system.linq library in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\system.linq library in C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\system.linq library in C#.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\system.linq library in C#.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\system.linq library in C#.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\system.linq library in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\refint\system.linq library in C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\system.linq library in C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\system.linq library in C#.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\system.linq library in C#\obj\Debug\net9.0\ref\system.linq library in C#.dll

@@ -1,0 +1,14 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\bin\Debug\net9.0\Assignment Operator In C#.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\bin\Debug\net9.0\Assignment Operator In C#.deps.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\bin\Debug\net9.0\Assignment Operator In C#.runtimeconfig.json
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\bin\Debug\net9.0\Assignment Operator In C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\bin\Debug\net9.0\Assignment Operator In C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\Assignment Operator In C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\Assignment Operator In C#.AssemblyInfoInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\Assignment Operator In C#.AssemblyInfo.cs
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\Assignment Operator In C#.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\Assignment Operator In C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\refint\Assignment Operator In C#.dll
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\Assignment Operator In C#.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\Assignment Operator In C#.genruntimeconfig.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Assignment Operator In C#\obj\Debug\net9.0\ref\Assignment Operator In C#.dll
