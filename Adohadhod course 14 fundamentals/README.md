@@ -16,9 +16,5 @@ This repository is a practical guide for learning how to build **Graphical User 
 
 ---
 
-## 🧱 Folder Structure
-- [Visual Studio](https://visualstudio.microsoft.com/) 
-- [Visual Studio](https://visualstudio.microsoft.com/) 
-- [Visual Studio](https://visualstudio.microsoft.com/) 
 
 
