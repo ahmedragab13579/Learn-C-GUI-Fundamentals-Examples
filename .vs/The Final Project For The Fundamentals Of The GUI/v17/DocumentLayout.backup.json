@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|d:\\course 14 abohadhod c#\\the final project for the fundamentals of the gui\\library management system\\librarymanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\librarymanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|d:\\course 14 abohadhod c#\\the final project for the fundamentals of the gui\\library management system\\librarymanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\librarymanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|d:\\course 14 abohadhod c#\\the final project for the fundamentals of the gui\\library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|d:\\course 14 abohadhod c#\\the final project for the fundamentals of the gui\\library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|d:\\course 14 abohadhod c#\\the final project for the fundamentals of the gui\\library management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|d:\\course 14 abohadhod c#\\the final project for the fundamentals of the gui\\library management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D9D2986-350D-4406-B37D-0D1D3BFDD0B5}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cs",
+              "DocumentMoniker": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\login.cs",
+              "RelativeDocumentMoniker": "Library Management System\\login.cs",
+              "ToolTip": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\login.cs",
+              "RelativeToolTip": "Library Management System\\login.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:46:32.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\login.cs",
+              "RelativeDocumentMoniker": "Library Management System\\login.cs",
+              "ToolTip": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\login.cs [Design]",
+              "RelativeToolTip": "Library Management System\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:46:26.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainmenu.cs",
+              "DocumentMoniker": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\mainmenu.cs",
+              "RelativeDocumentMoniker": "Library Management System\\mainmenu.cs",
+              "ToolTip": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\mainmenu.cs",
+              "RelativeToolTip": "Library Management System\\mainmenu.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAzwGcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:42:26.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mainmenu.cs [Design]",
+              "DocumentMoniker": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\mainmenu.cs",
+              "RelativeDocumentMoniker": "Library Management System\\mainmenu.cs",
+              "ToolTip": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\mainmenu.cs [Design]",
+              "RelativeToolTip": "Library Management System\\mainmenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:42:20.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "librarymanagment.cs",
+              "DocumentMoniker": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\librarymanagment.cs",
+              "RelativeDocumentMoniker": "Library Management System\\librarymanagment.cs",
+              "ToolTip": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\librarymanagment.cs",
+              "RelativeToolTip": "Library Management System\\librarymanagment.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAiwOsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:32.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "librarymanagment.cs [Design]",
+              "DocumentMoniker": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\librarymanagment.cs",
+              "RelativeDocumentMoniker": "Library Management System\\librarymanagment.cs",
+              "ToolTip": "D:\\course 14 abohadhod C#\\The Final Project For The Fundamentals Of The GUI\\Library Management System\\librarymanagment.cs [Design]",
+              "RelativeToolTip": "Library Management System\\librarymanagment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:24.56Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

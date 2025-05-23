@@ -1,0 +1,18 @@
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\bin\Debug\Library Management System.exe.config
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\bin\Debug\Library Management System.exe
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\bin\Debug\Library Management System.pdb
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library Management System.exe
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library Management System.pdb
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library_Management_System.Form2.resources
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\bin\Debug\Newtonsoft.Json.dll
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\bin\Debug\Newtonsoft.Json.xml
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library .F7D87690.Up2Date
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library_Management_System.mainmenu.resources
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library_Management_System.AllAvilabelBooks.resources
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library_Management_System.login.resources
+D:\course 14 abohadhod C#\The Final Project For The Fundamentals Of The GUI\Library Management System\obj\Debug\Library_Management_System.librarymanagment.resources
