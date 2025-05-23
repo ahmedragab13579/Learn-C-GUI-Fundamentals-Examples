@@ -1,0 +1,10 @@
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\bin\Debug\Desktop first applecation.exe.config
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\bin\Debug\Desktop first applecation.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\bin\Debug\Desktop first applecation.pdb
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\obj\Debug\Desktop first applecation.csproj.AssemblyReference.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\obj\Debug\Desktop_first_applecation.Form1.resources
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\obj\Debug\Desktop_first_applecation.Properties.Resources.resources
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\obj\Debug\Desktop first applecation.csproj.GenerateResource.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\obj\Debug\Desktop first applecation.csproj.CoreCompileInputs.cache
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\obj\Debug\Desktop first applecation.exe
+D:\course 14 abohadhod C#\Adohadhod course 14 fundamentals\Desktop first applecation\obj\Debug\Desktop first applecation.pdb
